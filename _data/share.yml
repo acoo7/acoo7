@@ -2,9 +2,9 @@
 #  Icons from <https://fontawesome.com/>
 
 platforms:
-  - type: QQ
-    icon: "fa-brands fa-qq"
-    link: "http://connect.qq.com/widget/shareqq/index.html?url=你的分享网址&sharesource=qzone&title=你的分享标题&pics=你的分享图片地址&summary=你的分享描述&desc=你的分享简述"
+  # - type: QQ
+  #   icon: "fa-brands fa-qq"
+  #   link: "http://connect.qq.com/widget/shareqq/index.html?url=你的分享网址&sharesource=qzone&title=你的分享标题&pics=你的分享图片地址&summary=你的分享描述&desc=你的分享简述"
 
 
 
